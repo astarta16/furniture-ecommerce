@@ -1,0 +1,48 @@
+.container {
+    width: 1240px;
+}
+
+.header {
+   width: 684px;
+   padding: 20px 60px;
+}
+
+.logo-link{
+    margin-right: 40px;
+}
+
+.logo-link, .nav {
+    display: inline-block;
+    vertical-align: middle; 
+}
+
+header a {
+    color: black;
+}
+
+.logo-image {
+    vertical-align: middle; 
+    margin-right: 10px; 
+}
+
+.logo-text {
+    font-size: 24px; 
+    font-weight: bold; 
+    vertical-align: middle; 
+}
+
+.nav-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-item {
+    display: inline-block; 
+    margin-right: 20px;
+}
+
+.nav-link {
+    font-size: 16px; 
+    padding: 8px 10px;
+}
