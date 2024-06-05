@@ -88,3 +88,13 @@ section {
     display: inline-block;
     margin: 15px;
 }
+
+
+.description {
+    text-align: center;
+}
+
+.image-container {
+    display: inline-block; 
+    margin: 0 10px; 
+}
