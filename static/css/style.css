@@ -134,6 +134,23 @@ section {
   margin: 0 10px;
 }
 
+.description{
+    font-size: 23px;
+    font-weight: 500;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+.additional-info {
+    font-size: 24px;
+    font-weight: 400;
+    color:#9F9F9F;
+    font-family: "Poppins", sans-serif;
+}
+
+.browse-container {
+    padding-bottom:30px ;
+}
 .description,
 .additional-info {
   display: inline-block;
@@ -154,23 +171,26 @@ section {
   margin: 0 auto;
 }
 
-.desc1,
-.desc2 {
+.desc{
   display: block;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Poppins", sans-serif;
+  color: #9F9F9F;
 }
 
 .box {
-  margin-top: 20px;
+  margin-top: 50px;
   text-align: center;
-  padding: 20px;
+  padding: 50px;
   background-color: #faf3ea;
-  font-size: 0;
+ 
 }
 
 .box > div {
   display: inline-block;
-  width: 23%;
+  width: 24%;
   text-align: left;
   vertical-align: top;
   padding: 10px;
@@ -180,14 +200,16 @@ section {
 
 .box h5 {
   margin: 0 0 10px 0;
-  font-size: 18px;
+  font-size: 25px;
   color: #333;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
 }
 
 .box p {
-  margin: 0;
-  font-size: 14px;
-  color: #666;
+  font-weight: 500;
+  font-size: 20px;
+  color: #898989;
 }
 
 .footer-container {
